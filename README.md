@@ -1,7 +1,7 @@
 (RU)
 Краткое описание проекта:
 проект часов с будильником на базе STM32F103C8T6.
-Часы могут вывести на дисплей дату, время, температуру.
+Устройство может вывести на дисплей дату, время, температуру.
 Имеется возможность настройки текущей даты и времени (калибровка).
 
 Дополнительно.
@@ -12,7 +12,7 @@
 (EN)
 Brief description of the project:
 project of a clock with an alarm clock based on STM32F103C8T6.
-The clock can display the date, time, temperature.
+The device can display the date, time, temperature.
 It is possible to set the current date and time (calibration).
 
 Additionally.
