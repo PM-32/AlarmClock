@@ -1,0 +1,13 @@
+../Core/Src/4x_7-seg_display.c:12:6:ResetLeds	8	static
+../Core/Src/4x_7-seg_display.c:25:6:SetLeds	16	static
+../Core/Src/4x_7-seg_display.c:166:6:SetLedMinus	8	static
+../Core/Src/4x_7-seg_display.c:179:6:SetDigit	16	static
+../Core/Src/4x_7-seg_display.c:230:6:PrintFigure	16	static
+../Core/Src/4x_7-seg_display.c:241:6:PrintFigureInt	16	static
+../Core/Src/4x_7-seg_display.c:252:6:PrintMinus	16	static
+../Core/Src/4x_7-seg_display.c:263:6:PrintValue	32	static
+../Core/Src/4x_7-seg_display.c:358:6:PrintPoint	16	static
+../Core/Src/4x_7-seg_display.c:369:6:PrintSnakeMove_Direct	16	static
+../Core/Src/4x_7-seg_display.c:418:6:PrintSnakeMove_Indirect	16	static
+../Core/Src/4x_7-seg_display.c:469:6:PrintHi	16	static
+../Core/Src/4x_7-seg_display.c:511:6:PrintDegrees	8	static
