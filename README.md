@@ -6,7 +6,7 @@
 
 Дополнительно.
 Полный код проекта представлен в папке "AlarmClock_1".
-Больше информации о проекте можно найти в файле "Описание.pdf".
+Больше информации о проекте можно найти в файле "Description.pdf".
 
 
 (EN)
@@ -17,4 +17,4 @@ It is possible to set the current date and time (calibration).
 
 Additionally.
 The full project code is presented in the folder "AlarmClock_1".
-More information about the project can be found in the file "Описание.pdf".
+More information about the project can be found in the file "Description.pdf".
